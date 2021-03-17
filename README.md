@@ -9,4 +9,4 @@ This will be a supply management application that will keep track of allergenic 
 * Angular
 * HTML5 / CSS
 * Node.js
-* MySQL
+* MongoDB
